@@ -6,7 +6,8 @@ public class FruitCollected : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collison) {
         if (collison.CompareTag("Player"))
-        {
+        {    
+            FindAnyObjectByType<GameManager>().AddCollectible();
             Destroy(gameObject);
         }
     }

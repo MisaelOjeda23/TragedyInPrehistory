@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BillyMovement : MonoBehaviour
 {
-    public float runSpeed = 10f;
+    public float runSpeed = 3f;
     float moveHorizontal;
     
     private Rigidbody2D rb;
@@ -42,5 +42,6 @@ public class BillyMovement : MonoBehaviour
         {
             transform.localScale = new Vector3(-2.5f, 2.5f, 1);
         }
+
     }
 }
