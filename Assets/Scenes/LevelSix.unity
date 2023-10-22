@@ -2173,7 +2173,7 @@ MonoBehaviour:
   - {fileID: 410939443}
   - {fileID: 1678876195}
   meteorites:
-  - {fileID: 3306897207824138111, guid: 693af786575e1fe43b5ecec4d7b5df24, type: 3}
+  - {fileID: 4753688100066424800, guid: 2c463ed1154b2b44091fcb6559762cc3, type: 3}
   - {fileID: 3510239802466229498, guid: 2cf9d39b12b0732498c57b4b2476d99f, type: 3}
   - {fileID: 3306897207824138111, guid: f37467e49d0760b419bd01434ae8c4ef, type: 3}
   - {fileID: 3306897207824138111, guid: 5fed79b2c1fc4224a874841ba424170a, type: 3}

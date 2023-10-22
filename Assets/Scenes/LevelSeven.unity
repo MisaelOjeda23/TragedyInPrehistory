@@ -2263,6 +2263,7 @@ MonoBehaviour:
   - {fileID: 3306897207824138111, guid: e39accaae50bb0b4b806280bf2526904, type: 3}
   - {fileID: 3998335266050145143, guid: bdaa3ba8bebb1a544955307260bcbb03, type: 3}
   - {fileID: 3306897207824138111, guid: 2b06ed72517460f4f9a7654d139a1fea, type: 3}
+  - {fileID: 4753688100066424800, guid: 2c463ed1154b2b44091fcb6559762cc3, type: 3}
   timeMeteorite: 0.7
   meteoriteLimite: 100
 --- !u!4 &547431695
